@@ -1,28 +1,11 @@
+        /* essa é a parte do css(estilização web), aqui eu acabei usando id nas tags e as classe que usei no HTML e atribuir as declarações necessárias para concluir a atividade */
 
-        /* essa é a parte do css(estilização web), aqui eu acabei usando id nas tags do HTML então eu as identifiquei e atribuir as declarações necessárias para concluir a atividade */
-
-        #A{
-            color: greenyellow;
-        }
-
-        #B{
-            color: red;
-            font-size: 21px;
-        }
-
-        #C{
-            color: greenyellow;
-        }
-
-        #D{
-            color: blue;
-            font-size: 21px;
-        }
-
-        #E{
-            color: greenyellow;
-        }
-
-        #F{
-            color: greenyellow;
-        }
+    p{
+        color: Greenyellow; font-family: 'Times New Roman', Times, serif; font-size: larger;
+    }
+    .ParteVermelha{
+        color: red; font-size: 30px;
+    }
+    .ParteAzul{
+        color: blue; font-size: 30px;
+    }
